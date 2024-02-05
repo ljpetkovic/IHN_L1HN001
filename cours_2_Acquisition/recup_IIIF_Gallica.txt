@@ -1,0 +1,7 @@
+le script pour récupérer des IIIF sur Gallica (Johanna) -- Pandore : https://fr.wikisource.org/wiki/Wikisource:Gallica/gallica.py
+
+
+
+
+
+
